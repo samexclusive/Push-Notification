@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "18663202780",
+    "firebase_url": "https://could-messanging.firebaseio.com",
+    "project_id": "could-messanging",
+    "storage_bucket": "could-messanging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18663202780:android:963a5cd78c3de0aa",
+        "android_client_info": {
+          "package_name": "com.samexclusive.hari.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18663202780-94s03bog26hi3ud1uar2ul5k0lh5bt4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samexclusive.hari.pushnotification",
+            "certificate_hash": "26cb5fc95110078e5699621795bcc9297476ae4d"
+          }
+        },
+        {
+          "client_id": "18663202780-e5704ua6g6s95lb6jjfji0niivjc1177.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtc7Ck1RXkfiRJBDpOlDT6Pr_WOg-EP48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18663202780-e5704ua6g6s95lb6jjfji0niivjc1177.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
